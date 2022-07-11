@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:35:29.532Z" agent="5.0 (Windows)" etag="5MA_fCsNATRcdR6rSY-o" version="20.0.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:41:40.683Z" agent="5.0 (Windows)" etag="NjSHdcNjv14ZQur9JQYB" version="20.0.1" type="github" pages="8">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -523,8 +523,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SIwxIBungcFQ-p3nZNOF-2" value="&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;IPSEC encryption of traffic in Midhaul (High latency fronthaul) &amp;amp; backhaul terminated in Security Gateway (SEG) to filter out external illegtimate traffic&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;Strong authentication of all network elements using digital certificates&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;Automated certificate life cycle management by PKI Certificate Authority&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;C-Plane &amp;amp; U-Plane Confidentiality &amp;amp; Integrity protection at all levels (application, connectivity, transport)&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;M-Plane encryption with TLS/IPsec/SSH (Broadband (BB) networks)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="590" height="250" as="geometry" />
+        <mxCell id="SIwxIBungcFQ-p3nZNOF-2" value="&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IPSEC encryption of traffic in Midhaul (High latency fronthaul) &amp;amp; backhaul terminated in Security Gateway (SEG) to filter out external illegtimate traffic&lt;/li&gt;&lt;li&gt;Strong authentication of all network elements using digital certificates&lt;/li&gt;&lt;li&gt;Automated certificate life cycle management by PKI Certificate Authority&lt;/li&gt;&lt;li&gt;C-Plane &amp;amp; U-Plane Confidentiality &amp;amp; Integrity protection at all levels (application, connectivity, transport)&lt;/li&gt;&lt;li&gt;M-Plane encryption with TLS/IPsec/SSH (Broadband (BB) networks)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="760" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tNqagThJzEToq5RbI268" name="20-cloud-nfv-sdn">
+    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-1" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;ETSI group &#39;NFV&#39; provides guidlenies for nework Function Virtualization Security&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-2" value="&lt;div&gt;ITU-Telecommunication Standardization sector security Group has provided standardization for SDN security&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="500" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-3" value="&lt;br&gt;&lt;div&gt;Slicing security has not yet been Standradized&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="500" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
