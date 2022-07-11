@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T13:59:57.901Z" agent="5.0 (Windows)" etag="gYqFggMCwAkoIbN3rca6" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-11T14:30:05.547Z" agent="5.0 (Windows)" etag="uClMF3yW5Z8xcEt5SIE_" version="20.0.1" type="github" pages="13">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -461,26 +461,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="evrJUqBNvXwuZyNSUdwh" name="17-secure-by-design">
-    <mxGraphModel dx="1087" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-1" value="Security architecture specified by Standards (e.g. 3GPP)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-1" value="Security architecture specified by Standards (e.g. 3GPP)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-2" value="Network element security measures" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-2" value="Network element security measures" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="500" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-3" value="Network security unspecified by Standards" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-3" value="Network security unspecified by Standards" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="580" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-4" value="Vendor products should be 3GPP compliant and implement the 3GPP security architecture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-4" value="Vendor products should be 3GPP compliant and implement the 3GPP security architecture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-5" value="Secure by Design: VNF Hardening, OS Hardening, Hypervisor Hardening, Secure Boot, Root of Trust, Software Integrity Protection, Secure Key &amp;amp; file storage, Memory Protection, Account Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-5" value="Secure by Design: VNF Hardening, OS Hardening, Hypervisor Hardening, Secure Boot, Root of Trust, Software Integrity Protection, Secure Key &amp;amp; file storage, Memory Protection, Account Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1- Radio Transport Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2- Cloud Infrastructure Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3- Packet Core Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;4- IoT Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;5- Security Operation&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;6- Security Services: Security Risk Assessment, Security Consulting, Security Architecture, Managed Security Operation&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1- Radio Transport Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2- Cloud Infrastructure Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3- Packet Core Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;4- IoT Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;5- Security Operation&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;6- Security Services: Security Risk Assessment, Security Consulting, Security Architecture, Managed Security Operation&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=#2B87FF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
           <mxGeometry x="250" y="580" width="350" height="130" as="geometry" />
         </mxCell>
       </root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AA0OkTcVIvTYVhfwTetS" name="24-5g-framework">
-    <mxGraphModel dx="941" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uT4fVWetF1YEdm_DIKif" name="25-diversity-complexity">
-    <mxGraphModel dx="1646" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
