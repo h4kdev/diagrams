@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T10:08:40.125Z" agent="5.0 (Windows)" etag="tXtWtbpzlJCZ2xuN9ciJ" version="20.0.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-11T10:09:42.395Z" agent="5.0 (Windows)" etag="9Xc3ahf0YWYS_LOOdFDs" version="20.0.1" type="github" pages="9">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=none;strokeWidth=3;fillColor=#66B2FF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="250" height="340" as="geometry" />
+          <mxGeometry x="560" y="340" width="250" height="359" as="geometry" />
         </mxCell>
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#333333;strokeColor=none;fillColor=#969696;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="270" height="890" as="geometry" />
@@ -635,26 +635,26 @@
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-23" value="Public Vulnerability" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;strokeColor=default;fillColor=#969696;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="240" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-24" value="Filtering, Evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="590" y="395" width="170" height="60" as="geometry" />
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-24" value="Filtering, Evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="414" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-25" value="Fault management process" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="591" y="595" width="170" height="60" as="geometry" />
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-25" value="Fault management process" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="591" y="614" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-26" value="Tool-based support" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="589" y="495" width="170" height="60" as="geometry" />
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-26" value="Tool-based support" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="514" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-27" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="555" width="60" height="40" as="geometry" />
+          <mxGeometry x="650" y="574" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-28" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="457" width="60" height="40" as="geometry" />
+          <mxGeometry x="650" y="476" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=18;fontColor=#623BFF;strokeColor=default;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="300" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-iVhtCOXzDhmyYqqsvQ-31" value="&lt;div&gt;Vulnerability &lt;br&gt;&lt;/div&gt;&lt;div&gt;Monitoring (reactive)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#0F0F0F;" vertex="1" parent="1">
-          <mxGeometry x="577" y="340" width="200" height="50" as="geometry" />
+          <mxGeometry x="577" y="353" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
