@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T12:47:23.038Z" agent="5.0 (Windows)" etag="8m4LuGm7nhqtr2sWh0FL" version="20.0.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-11T13:19:36.826Z" agent="5.0 (Windows)" etag="6WRNVDOz9G5qtchfisky" version="20.0.1" type="github" pages="12">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -785,6 +785,65 @@
         </mxCell>
         <mxCell id="L7cYgX1Vw8oqlYUUWpYK-4" value="Measure &amp;amp; detect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;flipV=0;flipH=0;rotation=-89;" vertex="1" parent="1">
           <mxGeometry x="670" y="410" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AA0OkTcVIvTYVhfwTetS" name="24-5g-framework">
+    <mxGraphModel dx="941" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kH9W895K47VpEe9i2hhX-3" value="New use cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-5" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-6" value="Flexibility" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-7" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-8" value="Dependability" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-9" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-10" value="New network paradigms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="543" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-11" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;shadow=0;sketch=0;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="510" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-12" value="New threats" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="543" y="590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-13" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;shadow=0;sketch=0;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="590" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-14" value="Changing ecosystem" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="543" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-15" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0F0F0F;strokeColor=none;strokeWidth=3;fillColor=#CCCCCC;gradientColor=none;shadow=0;sketch=0;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="670" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/shield-secured-anti-safe-protection-128.png;rounded=0;shadow=0;sketch=0;fontSize=15;fontColor=#0F0F0F;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="198" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-20" value="Built-in security" style="shape=loopLimit;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=0;fontSize=15;fontColor=#0F0F0F;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="526" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-21" value="Flexibility" style="shape=loopLimit;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=0;fontSize=15;fontColor=#0F0F0F;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="571" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-24" value="Automation" style="shape=loopLimit;whiteSpace=wrap;html=1;rounded=1;shadow=0;sketch=0;fontSize=15;fontColor=#0F0F0F;strokeColor=#0F0F0F;strokeWidth=1;fillColor=#CCCCCC;gradientColor=none;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kH9W895K47VpEe9i2hhX-25" value="5G Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
