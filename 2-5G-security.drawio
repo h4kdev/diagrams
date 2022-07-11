@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:14:42.588Z" agent="5.0 (Windows)" etag="9MUtqDILUTaRDPq1BT2b" version="20.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:35:29.532Z" agent="5.0 (Windows)" etag="5MA_fCsNATRcdR6rSY-o" version="20.0.1" type="github" pages="7">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -477,7 +477,7 @@
         <mxCell id="CzOM8Gt6qr_ibALFLrXx-4" value="Vendor products should be 3GPP compliant and implement the 3GPP security architecture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="350" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="CzOM8Gt6qr_ibALFLrXx-5" value="Secure by Design: VNF Hardening, OS Hardening, Hypervisor Hardening, Secure Boot, Root of Trust, Software Integrity Protection, Secure Key &amp;amp; file storage, memory Protection, Account Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="CzOM8Gt6qr_ibALFLrXx-5" value="Secure by Design: VNF Hardening, OS Hardening, Hypervisor Hardening, Secure Boot, Root of Trust, Software Integrity Protection, Secure Key &amp;amp; file storage, Memory Protection, Account Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CzOM8Gt6qr_ibALFLrXx-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1- Radio Transport Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2- Cloud Infrastructure Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3- Packet Core Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;4- IoT Security&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;5- Security Operation&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;6- Security Services: Security Risk Assessment, Security Consulting, Security Architecture, Managed Security Operation&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
@@ -486,11 +486,46 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0qJWol32nmos2bye8NMg" name="Page-6">
-    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="0qJWol32nmos2bye8NMg" name="18-UE-security">
+    <mxGraphModel dx="918" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-1" value="&lt;div&gt;Authentication/Authorization, &lt;br&gt;&lt;/div&gt;&lt;div&gt;Key agreement&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-2" value="&lt;div&gt;Security negotiation, key hierarchy, Crypto algorithms,&lt;/div&gt;&lt;div&gt;&amp;nbsp;Enhanced subscriber privacy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-3" value="&lt;div&gt;Subscriber/device identifiers/credentials&lt;/div&gt;&lt;div&gt;Secure hardware&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fontSize=27;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-cctv-128.png;fontSize=27;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="32" y="200" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;fontSize=27;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="30" height="31.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-7" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="128.75" y="130" width="57.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="nCVE5fNc-m0M2WEAdgIR-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="233" width="35" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0tFOXqU2xD5ZRTlLHktr" name="19-ue-radio-transport">
+    <mxGraphModel dx="760" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SIwxIBungcFQ-p3nZNOF-2" value="&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;IPSEC encryption of traffic in Midhaul (High latency fronthaul) &amp;amp; backhaul terminated in Security Gateway (SEG) to filter out external illegtimate traffic&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;Strong authentication of all network elements using digital certificates&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;Automated certificate life cycle management by PKI Certificate Authority&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;C-Plane &amp;amp; U-Plane Confidentiality &amp;amp; Integrity protection at all levels (application, connectivity, transport)&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot; align=&quot;left&quot;&gt;M-Plane encryption with TLS/IPsec/SSH (Broadband (BB) networks)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="590" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
