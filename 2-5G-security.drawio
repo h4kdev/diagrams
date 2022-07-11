@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:41:40.683Z" agent="5.0 (Windows)" etag="NjSHdcNjv14ZQur9JQYB" version="20.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:52:40.468Z" agent="5.0 (Windows)" etag="YsbnSpIhfmjCawf7oRn4" version="20.0.1" type="github" pages="9">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -530,7 +530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tNqagThJzEToq5RbI268" name="20-cloud-nfv-sdn">
-    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,6 +542,65 @@
         </mxCell>
         <mxCell id="OQMyMBuaxsxCHqJ4NoOu-3" value="&lt;br&gt;&lt;div&gt;Slicing security has not yet been Standradized&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-4" value="Isolation by equipment-specific mechanisms on (non virtualized) RAN equipment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-5" value="Isolation in the transport by VPNs created via SDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="650" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-6" value="Isolation in the cloud by NFV mechanisms in the (central/edge) cloud" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="650" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OQMyMBuaxsxCHqJ4NoOu-7" value="network slicing security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y2zZon2IhzHocGltnGpR" name="21-DEFSEC">
+    <mxGraphModel dx="1585" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-1" value="&lt;div&gt;Security &lt;br&gt;&lt;/div&gt;&lt;div&gt;Threat &amp;amp; Risk Analysis&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="150" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-2" value="Privacy Risk Assessment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-3" value="Security Requirements" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="280" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-4" value="Security Architecture Specification" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="340" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-5" value="Secure Design" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="410" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-6" value="Secure Coding" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104" y="470" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-7" value="&lt;div&gt;Security Hardening&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="540" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-8" value="Security Testing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104" y="610" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-9" value="Product Security Compliancy Statement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="680" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-10" value="Privacy Data Definition" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="750" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-11" value="Privacy Consumer Documentation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="810" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-12" value="Security Auditing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="134" y="870" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-iVhtCOXzDhmyYqqsvQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=default;fillColor=#623BFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
