@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T14:30:05.547Z" agent="5.0 (Windows)" etag="uClMF3yW5Z8xcEt5SIE_" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-12T12:40:52.254Z" agent="5.0 (Windows)" etag="VVR1Ty-w85VByIyhQR_x" version="20.0.1" type="github" pages="13">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aygVcpAaICUejv_WFohe" name="16-SOAR">
-    <mxGraphModel dx="3088" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2786" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,7 +461,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="evrJUqBNvXwuZyNSUdwh" name="17-secure-by-design">
-    <mxGraphModel dx="941" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,7 +487,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0qJWol32nmos2bye8NMg" name="18-UE-security">
-    <mxGraphModel dx="1372" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,7 +519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0tFOXqU2xD5ZRTlLHktr" name="19-ue-radio-transport">
-    <mxGraphModel dx="1135" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,7 +530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tNqagThJzEToq5RbI268" name="20-cloud-nfv-sdn">
-    <mxGraphModel dx="1135" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y2zZon2IhzHocGltnGpR" name="21-DEFSEC">
-    <mxGraphModel dx="1646" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SjZ-pIifWILDOtGbpb-G" name="22-Security ops">
-    <mxGraphModel dx="1135" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1135" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -737,7 +737,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ag8mdsdmdasAE-UWyQT9" name="23-security-mgmt">
-    <mxGraphModel dx="1585" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1372" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
