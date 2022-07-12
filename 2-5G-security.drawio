@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T12:40:52.254Z" agent="5.0 (Windows)" etag="VVR1Ty-w85VByIyhQR_x" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-12T12:49:05.730Z" agent="5.0 (Windows)" etag="NwKbzYIruw1x9sYwP3Dp" version="20.0.1" type="github" pages="14">
   <diagram id="Hy29TjbXT3om8n-Vn90Z" name="15-trust-model">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -987,6 +987,17 @@
         </mxCell>
         <mxCell id="wdkS3hkq3UtMQ13EKLIR-21" value="Attacks from the Internet" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=0;dashed=1;sketch=0;fontSize=20;fontColor=#0F0F0F;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#47AFFF;gradientColor=none;size=290;position=0.62;position2=0.69;base=28;" vertex="1" parent="1">
           <mxGeometry x="710" y="111" width="130" height="379" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6aOYpvi2n_61YPqWCDQT" name="26-4g-to-5g">
+    <mxGraphModel dx="1678" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P3V68cU6coRraoMlGfph-1" value="&lt;div style=&quot;font-size: 16px;&quot; align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;Use of Mutual Authentication&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt; Presumed “open” network&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;An acknowledgment that all links could be tapped&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fontSize=14;fontColor=#4D4D4D;strokeColor=none;strokeWidth=2;fillColor=#2B87FF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="310" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
