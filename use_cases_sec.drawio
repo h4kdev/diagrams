@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T13:26:26.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="w2o4PNg3pXO_VKwYYWYu" version="20.8.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-03T13:30:07.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7ggOGu5gsxDt2B9tyESf" version="20.8.16" type="github" pages="3">
   <diagram name="Page-1" id="lb8JTBLWIytrsXzTvYKQ">
     <mxGraphModel dx="1195" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -390,9 +390,6 @@
         <mxCell id="saXktJ11tJhJvUvuFXAX-28" value="HSS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="752" y="870.5" width="50" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="saXktJ11tJhJvUvuFXAX-30" value="IPSEC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="750" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="saXktJ11tJhJvUvuFXAX-43" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="715" y="1004" width="9" height="10" as="geometry" />
         </mxCell>
@@ -444,6 +441,14 @@
         <mxCell id="saXktJ11tJhJvUvuFXAX-48" value="&lt;font color=&quot;#000000&quot;&gt;VPN server&lt;/font&gt;" style="shape=mxgraph.cisco.misc.vpn_concentrator;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=11;fontColor=#FF4517;" vertex="1" parent="1">
           <mxGeometry x="459" y="888.25" width="52" height="49.5" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eEH84GG_kcNlA5vC1n3A" name="Page-3">
+    <mxGraphModel dx="1434" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
